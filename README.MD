@@ -1,0 +1,1 @@
+This is the code used for Registering a device using mongo and express.
